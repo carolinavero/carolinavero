@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Carolina Vero from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 at W42 - Tecnologia. I'm currently learning about JavaScript and ReactJS.
+
+How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavero)](https://www.linkedin.com/in/carolinavero)
+
 <!--
 **carolinavero/carolinavero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
