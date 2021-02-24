@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Carolina Vero from Brazil (🇧🇷). I've been working as Front-End Developer since 2015 at W42 - Tecnologia. I'm currently learning about JavaScript and ReactJS.
+My name is Carolina Vero Ferreira from Brazil (🇧🇷). 
+- I've been working as Front-End Developer since 2015 at W42 - Tecnologia. 
+- I'm currently learning about JavaScript, ReactJS and Vue.js.
 
 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavero)](https://www.linkedin.com/in/carolinavero)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavero&layout=compact&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavero&layout=compact)
 
 
 <!--
