@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Carolina Vero Ferreira from Brazil (🇧🇷). 
-- I've been working as Front-End Developer since 2015 at W42 - Tecnologia. 
+- I've been working as Front-End Developer since 2015. 
 - I'm currently learning about JavaScript, ReactJS and Vue.js.
 
 How to reach me:
