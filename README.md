@@ -8,7 +8,7 @@ How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinavero)](https://www.linkedin.com/in/carolinavero)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavero&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavero&layout=compact&langs_count=7&theme=dracula)
 
 
 <!--
